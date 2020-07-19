@@ -5,7 +5,8 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="Catalyst.AlertsPage"
-             Title="Alerts">
+             Title="Alerts"
+             IconImageSource="baseline_notifications_white_48dp.png">
 
     <ContentPage.Content>
         <StackLayout VerticalOptions="Center" HorizontalOptions="Center">

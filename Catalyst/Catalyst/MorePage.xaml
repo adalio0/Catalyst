@@ -5,7 +5,8 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="Catalyst.MorePage"
-             Title="More">
+             Title="More"
+             IconImageSource="baseline_more_horiz_white_48dp.png">
     
     <ContentPage.Content>
         <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
